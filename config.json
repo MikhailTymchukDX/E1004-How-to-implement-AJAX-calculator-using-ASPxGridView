@@ -1,0 +1,8 @@
+{
+	"autoGenerateVb": true,
+	"platform": "ASP.NET Web Forms",
+	"product": "ASPxGridView, ASPxCardView & ASPxVerticalGrid",
+	"runOnWeb": true,
+	"technology": ".NET",
+	"unsupportedVersions": ""
+}
